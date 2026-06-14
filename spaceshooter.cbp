@@ -36,10 +36,16 @@
 			<Add library="opengl32" />
 			<Add library="glu32" />
 		</Linker>
-		<Unit filename="Entities.cpp" />
-		<Unit filename="Entities.h" />
-		<Unit filename="Game.cpp" />
-		<Unit filename="Game.h" />
+		<Unit filename="AnimationPrinciples.cpp" />
+		<Unit filename="AnimationPrinciples.h" />
+		<Unit filename="PolygonFilling.cpp" />
+		<Unit filename="PolygonFilling.h" />
+		<Unit filename="RotationVectors.cpp" />
+		<Unit filename="RotationVectors.h" />
+		<Unit filename="Transformations.cpp" />
+		<Unit filename="Transformations.h" />
+		<Unit filename="ViewingClipping.cpp" />
+		<Unit filename="ViewingClipping.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
